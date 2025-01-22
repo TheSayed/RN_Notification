@@ -1,0 +1,26 @@
+{
+    "date": 1737552700.78019,
+    "request": {
+        "content": {
+            "attachments": [Array],
+            "badge": null,
+            "body": "This is a notification",
+            "categoryIdentifier": "",
+            "data": [Object],
+            "interruptionLevel": "active",
+            "launchImageName": "",
+            "sound": null,
+            "subtitle": null,
+            "targetContentIdentifier": null,
+            "threadIdentifier": "",
+            "title": "Notification"
+        },
+        "identifier": "5719bbd1-f24a-4d07-8d19-7cc0ef3aea66",
+        "trigger": {
+            "class": "UNTimeIntervalNotificationTrigger",
+            "repeats": false,
+            "seconds": 2,
+            "type": "timeInterval"
+        }
+    }
+}
